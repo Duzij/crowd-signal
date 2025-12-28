@@ -130,11 +130,7 @@ h3 {
 
 /* Prototype Placeholder */
 .prototype-container {
-    margin: var(--spacing-lg) 0;
     aspect-ratio: 16/9;
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
