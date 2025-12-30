@@ -48,6 +48,10 @@ img {
     /* Minimalist narrow column */
     margin: 0 auto;
     padding: 0 var(--spacing-md);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
 }
 
 /* Typography Utility */
